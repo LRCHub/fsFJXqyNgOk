@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "コンティニュー",
+  "base_artist": "NEE",
+  "createdAt": "2026-02-12T11:23:34.444403Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コンティニュー",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/01_コンティニュー_NEE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コンティニュー",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_コンティニュー_NEE.txt"
+    }
+  ]
+}
